@@ -228,9 +228,9 @@ Integrated M.Tech CSE – Erode Sengunthar Engineering College
 
 Email: [praj77258@gmail.com](mailto:praj77258@gmail.com)
 
-GitHub: [github.com/praveenraj-gv](https://github.com/praveenraj-gv)
+GitHub: [github.com/praveenraj-gv](https://github.com/praveen-raj-G-V)
 
-LinkedIn: [linkedin.com/in/praveenrajgv](https://linkedin.com/in/praveenrajgv)
+LinkedIn: [linkedin.com/in/praveenrajgv](https://www.linkedin.com/in/praveenraj-gv/)
 
 ---
 
