@@ -191,12 +191,22 @@ Then open your browser and visit:
 ---
 
 ## 🖼️ Screenshots
-
+## DASHBOARD(ADDING,(EDIT/DELETE) PRODUCTS)
 ![Dashboard](images/products.png)
+
+## LOCATION PAGE(ADD/EDIT/REMOVE)
 ![Location](images/location.png)
+
+## MOVEMENT PAGE
 ![Movement](images/movement.png)
+
+## REPORT SHOWING PAGE
 ![Report](images/report.png)
+
+## EDIT PAGE
 ![Edit](images/edit.png)
+
+## DELETE PAGE
 ![Delete](images/delete.png)
 
 ---
