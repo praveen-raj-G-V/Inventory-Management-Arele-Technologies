@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Movements <a href="{{ url_for('add_movement') }}">(Add)</a></h2>
+<table>
+  <tr><th>ID</th><th>Product</th><th>From</th><th>To</th><th>Qty</th><th>Timestamp</th></tr>
+  {% for m in movements %}
+  <tr>
+    <td>{{ m.movement_id }}</td>
+    <td>{{ m.product_name }}</td>
+    <td>{{ m.from_loc or '-' }}</td>
+    <td>{{ m.to_loc or '-' }}</td>
+    <td>{{ m.qty }}</td>
+    <td>{{ m.timestamp }}</td>
+  </tr>
+  {% endfor %}
+</table>
+{% endblock %}
